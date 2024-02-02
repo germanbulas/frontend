@@ -1,34 +1,104 @@
-h1{
-    color: rgb(240, 142, 142);
-}
 
-h2{
-    color: aqua;
-}
+/* BASE STYLES */
 
-.title2{
-    color: blueviolet;
-}
-
-.title3{
-    color: black;
-}
-
-.menu{
+body{
     background-color: black;
-    padding: 50px 30px;
 }
 
-a{
-    color: aliceblue;
+
+/* --- HEADER MENU --- */
+
+.menu {
+    background-color: black;
+    box-shadow: 0px 20px 60px 5px #f15f5f; 
+    padding: 40px 50px;
+}
+
+a {
+    color: rgb(255, 0, 0);
     text-decoration: none;
     font-size: 30px;
     margin-right: 55px;
     transition: 1000ms;
 }
 
-a:hover{
-    color: aqua;
+a:hover {
+    color: rg       b(58, 19, 233);
     font-size: 40px;
     transition: 1000ms;
 }
+
+
+/* ---  ---  */
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    color: rgb(255, 255, 255);
+}
+
+p{
+    color: #fff;
+}
+.title2{
+    color: rgb(250, 250, 250);
+}
+
+.title3{
+    color: black;
+}
+
+
+.item{
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+.image{
+    width: 400px;
+    box-shadow: 0px 0px 100px 50px #5fc0f1;
+}
+
+
+.scretch{
+    box-shadow: 0px 0px 100px 50px #feaa19;
+}
+
+.roblox{
+    box-shadow: 0px 0px 100px 50px #881a9e;
+}
+
+
+.image img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
